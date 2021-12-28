@@ -1,2 +1,10 @@
 # test
-This is test repo to learn github
+
+Welcome to test repo 
+
+This is test repo to learn and experiment github !
+
+Cheers:)
+
+
+
