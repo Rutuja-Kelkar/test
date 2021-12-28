@@ -1,1 +1,1 @@
-# hellow inside docs/index.nd
+# hello inside docs/index.nd
